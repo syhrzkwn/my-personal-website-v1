@@ -278,7 +278,7 @@ img {
 }
 
 .button-white:hover {
-  background-color: var(--white-colorfi);
+  background-color: var(--white-color);
 }
 
 .button-link {

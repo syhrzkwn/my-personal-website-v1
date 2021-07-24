@@ -1,4 +1,4 @@
-# my-personal-website
-This is my source code for my personal website
+# MY PERSONAL WEBSITE
 
-Here is the link to my personal website: http://syahirzakwan.infinityfreeapp.com/
+PREVIEW:
+![1](https://user-images.githubusercontent.com/74871953/126875369-3bb20e58-27f1-4220-9581-d64053a481a2.png)

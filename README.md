@@ -1,4 +1,7 @@
 # MY PERSONAL WEBSITE
 
-PREVIEW:
-![1](https://user-images.githubusercontent.com/74871953/126875369-3bb20e58-27f1-4220-9581-d64053a481a2.png)
+Here is the link: https://syhrzkwn.github.io/my-personal-website
+
+# PREVIEW:
+
+![1](https://user-images.githubusercontent.com/74871953/127356758-5a99455d-edc1-44b5-bb24-607b1ecafb11.png)
